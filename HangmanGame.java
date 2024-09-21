@@ -1,6 +1,5 @@
-/*Name: Ruqia Fatima
-Date: June 1 2022
-Description: The program has 10 words from which it randomly selects one. The user is asked to guess the word by guessing one letter at a time. The user have 6 lives. The letters that the user guessed correct will be shown on the screen along with the dashes for letters that are not yet guessed. A wrong guess will result in one getting substacted form the lives. The program ends when the user guesses all the letters before their lives becomes zero or when the user lives becomes zero.
+/*Date: June 1 2022
+  Description: The program has 10 words from which it randomly selects one. The user is asked to guess the word by guessing one letter at a time. The user have 6 lives. The letters that the user guessed correct will be shown on the screen along with the dashes for letters that are not yet guessed. A wrong guess will result in one getting substacted form the lives. The program ends when the user guesses all the letters before their lives becomes zero or when the user lives becomes zero.
 */
 
 import java.util.Random;
